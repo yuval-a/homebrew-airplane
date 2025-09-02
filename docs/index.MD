@@ -1,5 +1,5 @@
 # Airplane - an AI driven terminal REPL
-Ask your OS questions, give it instructions - get back direct OS commands to run (with your approval).
+Ask your OS questions, give it instructions - get back direct OS commands to run (with your approval) to achieve your results.
 
 # Features
 * Built with Bash
@@ -7,6 +7,8 @@ Ask your OS questions, give it instructions - get back direct OS commands to run
 * Automatically detects your OS type.
 * Fast, concise.
 * Session history with local caching
+* Asks clarifying questions if needed.
+* Supports multi-turn, step-by-step commands, when needed.
 
 # Install
 To install run `brew install yuval-a/airplane/airplane`
