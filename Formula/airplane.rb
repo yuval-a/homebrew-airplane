@@ -2,8 +2,9 @@ class Airplane < Formula
   desc "Stateless AI-ops REPL (Bash)"
   homepage "https://github.com/yuval-a/airplane"
   # Artifact hosted in tap repo release
-  url "https://github.com/yuval-a/homebrew-airplane/releases/download/main/airplane-TAG_PLACEHOLDER.tar.gz"
+  url "https://github.com/yuval-a/homebrew-airplane/releases/download/main/airplane-main.tar.gz"
   sha256 "f556b3726e8abba79c40a414c4690211f9c781bc64c6723a2092251a70f3f161"
+  version "0.1.1"
   depends_on "bash"
   depends_on "jq"
   depends_on "curl"
