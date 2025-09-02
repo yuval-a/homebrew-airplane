@@ -11,4 +11,5 @@ Ask your OS questions, give it instructions - get back direct OS commands to run
 * Supports multi-turn, step-by-step commands, when needed.
 
 # Install
-To install run `brew install yuval-a/airplane/airplane`
+To install run: 
+```brew install yuval-a/airplane/airplane```
