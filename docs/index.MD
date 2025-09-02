@@ -1,4 +1,4 @@
-# Airplane - an AI driven terminal REPL
+# 🛫 Airplane - an AI driven terminal REPL
 Ask your OS questions, give it instructions - get back direct OS commands to run (with your approval) to achieve your results.
 
 # Features
