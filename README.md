@@ -2,7 +2,7 @@
 Ask your OS questions, give it instructions - get back direct OS commands to run (with your approval) to achieve your results.
 
 # Features
-* Built with Bash
+* Built with Bash.
 * LLM Provider agnostic: choose your favorite LLM: Open AI, Anthropic (Claude) or Google Gemini. Use your own API key.
 * Automatically detects your OS type.
 * Fast, concise.
