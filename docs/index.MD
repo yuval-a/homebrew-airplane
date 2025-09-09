@@ -6,8 +6,8 @@ Ask your OS questions, give it instructions - get back direct OS commands to run
 * LLM Provider agnostic: choose your favorite LLM: Open AI, Anthropic (Claude) or Google Gemini. Use your own API key.
 * Automatically detects your OS type.
 * Fast, concise.
-* Session history with local caching
 * Asks clarifying questions if needed.
+* Session history (go back with the 'up arrow'), with local caching.
 * Supports multi-turn, step-by-step commands, when needed.
 
 # Compatibility
@@ -21,4 +21,7 @@ spinner flickers, use :spinner OFF.
 
 # Install
 To install run: 
-```brew install yuval-a/airplane/airplane```
+```
+brew update
+brew install yuval-a/airplane/airplane
+```
