@@ -1,9 +1,9 @@
 class Airplane < Formula
   desc "Stateless AI-ops REPL (Bash)"
   homepage "https://github.com/yuval-a/airplane"
-  url "https://github.com/yuval-a/homebrew-airplane/releases/download/v0.4.4/airplane-v0.4.4.tar.gz"
-  sha256 "34d2b8858642b46d02c888adc576ed9b320785f3fb8d687d705f40f7a933b95f"
-  version "0.4.4"
+  url "https://github.com/yuval-a/homebrew-airplane/releases/download/v0.4.5/airplane-v0.4.5.tar.gz"
+  sha256 "deebd4a46754f28c2a836f81377a4cc6c13799663bd1a62096a6889aea25ad99"
+  version "0.4.5"
 
   depends_on "jq"
   uses_from_macos "curl"
