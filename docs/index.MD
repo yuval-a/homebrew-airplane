@@ -1,6 +1,18 @@
 # 🛫 Airplane - an AI driven terminal REPL
 Ask your OS questions, give it instructions - get back direct OS commands to run (with your approval) to achieve your results.
 
+`Airplane` is designed to be straighforward, fast and simple.
+It integrates with your existing shell, giving you the ability to write prompts in a natural language directly in the command-line, by prefixing your input with the colon character (`:`).
+
+# Examples for things you can ask
+* `:show environment variables`
+* `:information about my memory`
+* `:information about my cpus`
+* `:create a directory called “demo”, give it full file permissions and change to it`
+* `:create a text file with the lyrics of the song Hava Nagila`
+* `:show all ports and their listening processes`
+* `:restart nginx`
+
 # Features
 * Built with Bash
 * LLM Provider agnostic: choose your favorite LLM: Open AI, Anthropic (Claude) or Google Gemini. Use your own API key.
